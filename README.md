@@ -28,13 +28,9 @@ LoanDefaultRisjPrediction/ <-- project root
 ## Technologies Used
 
 - Python 3.13.9
-- 
 - Jupyter Notebook
-- 
 - pandas, numpy
-- 
 - scikit-learn
-- 
 - matplotlib, seaborn
 
 ---
