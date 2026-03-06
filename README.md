@@ -5,13 +5,21 @@ An end-to-end customer churn prediction project developed using Python and Sciki
 ## Project Structure
 
 LoanDefaultRisjPrediction/ <-- project root
+
 ├── data/ # Raw dataset
+
 ├── notebooks/ # Jupyter notebooks
+
 ├── src/ # Python package with reusable functions
+
 ├── model / # saved model
+
 ├── reports / # Final Report
+
 ├── requirements.txt
+
 ├── customerchurn_evn / # project environment path
+
 └── README.md
 
 
@@ -20,9 +28,13 @@ LoanDefaultRisjPrediction/ <-- project root
 ## Technologies Used
 
 - Python 3.13.9
+- 
 - Jupyter Notebook
+- 
 - pandas, numpy
+- 
 - scikit-learn
+- 
 - matplotlib, seaborn
 
 ---
